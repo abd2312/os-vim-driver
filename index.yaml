@@ -9,6 +9,6 @@ entries:
     name: helm-chart-test
     type: application
     urls:
-    - https://github.com/Kanchan-ibm/os-vim-driver/blob/master/helm-chart-test-0.1.0.tgz
+    - https://abd2312.github.io/os-vim-driver/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2020-06-29T13:45:32.202753+05:30"
